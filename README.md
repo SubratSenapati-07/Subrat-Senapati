@@ -27,7 +27,7 @@
 - 📍 **Location:** Jharkhand, India  
 - 💼 **LinkedIn:**   
 - 🧠 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/sr_subrat_07/) 
-- 🐙 **GitHub:** [github.com/subrat-senapati](https://github.com/subrat-senapati)
+- 🐙 **GitHub:** [github.com/subrat-senapati](https://github.com/SubratSenapati-07)
 
 ---
 
